@@ -28,10 +28,10 @@
 
 **The URL Scraper Beta Version will include basic features such as:**
 ```
-- **Static Content Scraping**
-- **Dynamic Content Scraping**
-- **API Data Fetch**
-- **More ( will be update be next time, at least for now... )**
+- Static Content Scraping
+- Dynamic Content Scraping
+- API Data Fetc
+- More ( will be update be next time, at least for now... )
 ```
 ## Installation tutorial
 Alright, this is the most important section of the README file
@@ -40,7 +40,7 @@ Make sure to read it carefully to avoid any potential issues or frustrations! Le
 
 ---
 
-- **Step 1 :**
+**Step 1 :**
 
 **Before setup, you need to know what is Web Scraping...**
 
@@ -48,13 +48,19 @@ Make sure to read it carefully to avoid any potential issues or frustrations! Le
 
 **Read more : [About of Web Scraping](https://viettelidc.com.vn/tin-tuc/web-scraping-la-gi?utm_term=&utm_campaign=GG_PMAX_PAYG&utm_source=adwords&utm_medium=ppc&hsa_acc=5671991650&hsa_cam=20917067474&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAl4a6BhBqEiwAqvrqutp89GE_mGTtIlkIkALr_Hu5dWhMliKlBbdypHiV9GL72CRA3XVhbBoC32UQAvD_BwE)**
   
-- **Step 2 :**
-- **Step 3 :**
-- **Step 4 :**
-- **Step 5 :**
-- **Step 6 :**
-- **Step 7 :**
-- **Step 8 :**
+**Step 2 :**
+
+**Step 3 :**
+
+**Step 4 :**
+
+**Step 5 :**
+
+**Step 6 :**
+
+**Step 7 :*
+
+**Step 8 :**
 
 # Any issue?
 ```
