@@ -9,7 +9,7 @@
 <div align="center">
 <p>
   <img src = "https://github.com/user-attachments/assets/4c9bfc8d-f196-4700-9692-0b0f2c714ea4" width="110" alt="URLScraper" />
-   <a href="https://t.me/urlscraper" style="text-decoration: none; font-size: 14px;">
+   <a href="https://t.me/s/urlscraper" style="text-decoration: none; font-size: 14px;">
     <b>Download URLScraper vBeta here !!!</b>
   <img src = "https://github.com/user-attachments/assets/4c9bfc8d-f196-4700-9692-0b0f2c714ea4" width="110" alt="URLScraper" />
   </a>
