@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
-<h3>Before downloading, please make sure to read carefully this file. Tks u so much !!!</h3>
+<h3>Before downloading, please make sure to read carefully this README. Tks u so much !!!</h3>
 </div>
+
+**Download URLScraper vBeta here : [Downloads](https://t.me/urlscraper)
 
 ---
 
