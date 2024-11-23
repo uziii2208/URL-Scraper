@@ -58,7 +58,7 @@ Make sure to read it carefully to avoid any potential issues or frustrations! Le
 
 **Step 6 :**
 
-**Step 7 :*
+**Step 7 :**
 
 **Step 8 :**
 
