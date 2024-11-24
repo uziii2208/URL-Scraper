@@ -30,13 +30,14 @@
 ```
 - Static Content Scraping
 - Dynamic Content Scraping
-- API Data Fetc
+- API Data Fetch
 - More ( will be update be next time, at least for now... )
 ```
-## Installation tutorial
-Alright, this is the most important section of the README file
-
-Make sure to read it carefully to avoid any potential issues or frustrations! Let's start!!!
+## 🔥Installation tutorial🔥
+```
+- Alright, this is the most important section of the README file
+- Make sure to read it carefully to avoid any potential issues or frustrations! Let's start!!!
+```
 
 ---
 
@@ -44,7 +45,7 @@ Make sure to read it carefully to avoid any potential issues or frustrations! Le
 
 ![image_from_VietelIDC](https://github.com/user-attachments/assets/dd1ac36e-a86a-4eb9-b404-8f6e7fdbc985)
 
-**Read more : [About of Web Scraping](https://viettelidc.com.vn/tin-tuc/web-scraping-la-gi?utm_term=&utm_campaign=GG_PMAX_PAYG&utm_source=adwords&utm_medium=ppc&hsa_acc=5671991650&hsa_cam=20917067474&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAl4a6BhBqEiwAqvrqutp89GE_mGTtIlkIkALr_Hu5dWhMliKlBbdypHiV9GL72CRA3XVhbBoC32UQAvD_BwE)**
+- **Read more : [About of Web Scraping](https://viettelidc.com.vn/tin-tuc/web-scraping-la-gi?utm_term=&utm_campaign=GG_PMAX_PAYG&utm_source=adwords&utm_medium=ppc&hsa_acc=5671991650&hsa_cam=20917067474&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAl4a6BhBqEiwAqvrqutp89GE_mGTtIlkIkALr_Hu5dWhMliKlBbdypHiV9GL72CRA3XVhbBoC32UQAvD_BwE)**
   
 ### Step 2 : After completing the setup file, please ensure that the "install_env.bat" file is automatically allowed to run
 
@@ -112,7 +113,7 @@ Make sure to read it carefully to avoid any potential issues or frustrations! Le
 
 ![guide7](https://github.com/user-attachments/assets/da8a0ead-0205-4eca-b7e7-77abeef458fc)
 
-- Alright, everything is now complete. Enjoy your experience, and thank you! 😊😊😊
+- **Alright, everything is now complete. Enjoy your experience, and thank you! 😊😊😊**
 
 # Any issue?
 ```
