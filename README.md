@@ -47,7 +47,7 @@
 
 - **Read more : [About of Web Scraping](https://viettelidc.com.vn/tin-tuc/web-scraping-la-gi?utm_term=&utm_campaign=GG_PMAX_PAYG&utm_source=adwords&utm_medium=ppc&hsa_acc=5671991650&hsa_cam=20917067474&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAl4a6BhBqEiwAqvrqutp89GE_mGTtIlkIkALr_Hu5dWhMliKlBbdypHiV9GL72CRA3XVhbBoC32UQAvD_BwE)**
   
-### Step 2 : After completing the setup file, please ensure that the "install_env.bat" file is automatically allowed to run
+### Step 2 : After completing the setup file, please ensure that the ```install_env.bat``` file is automatically allowed to run
 
 ![guide1](https://github.com/user-attachments/assets/4bc829d2-41a9-493a-933d-f4298ec2867b)
 
