@@ -60,7 +60,7 @@
 
 ![guide3](https://github.com/user-attachments/assets/bbd57623-53ec-4ca7-aeac-f5cf74af1753)
 
-### Step 3 : Are you experiencing the issue shown in the image where the "Dynamic Content Scraping" feature cannot run?
+### Step 3 : Are you experiencing the issue shown in the image where the ```Dynamic Content Scraping``` feature cannot run?
 
 ![guide4](https://github.com/user-attachments/assets/c9144e69-4856-4e46-910e-e4bc09a81899)
 
@@ -73,7 +73,7 @@
 ---
 
 #### 2. Locate the folder to apply the fix.
-- In the URLScraper application, if the "Dynamic Content Scraping" feature doesn't work because the file shown in the image is missing, the solution is to locate the folder specified in the script and apply the necessary fix.
+- In the ```URLScraper``` application, if the ```Dynamic Content Scraping``` feature doesn't work because the file shown in the image is missing, the solution is to locate the folder specified in the script and apply the necessary fix.
 
 ![guide5_1](https://github.com/user-attachments/assets/d10c7037-8758-4ada-8a5d-03f9a29bc31e)
 
@@ -109,7 +109,7 @@
 
 ---
 
-### Step 4 : Open URLScraper and run the "Dynamic Content Scraping" feature again to check the results.
+### Step 4 : Open URLScraper and run the ```Dynamic Content Scraping``` feature again to check the results.
 
 ![guide7](https://github.com/user-attachments/assets/da8a0ead-0205-4eca-b7e7-77abeef458fc)
 
