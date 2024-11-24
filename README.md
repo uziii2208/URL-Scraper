@@ -40,27 +40,79 @@ Make sure to read it carefully to avoid any potential issues or frustrations! Le
 
 ---
 
-**Step 1 :**
-
-**Before setup, you need to know what is Web Scraping...**
+### Step 1 : Before setup, you need to know what is Web Scraping...
 
 ![image_from_VietelIDC](https://github.com/user-attachments/assets/dd1ac36e-a86a-4eb9-b404-8f6e7fdbc985)
 
 **Read more : [About of Web Scraping](https://viettelidc.com.vn/tin-tuc/web-scraping-la-gi?utm_term=&utm_campaign=GG_PMAX_PAYG&utm_source=adwords&utm_medium=ppc&hsa_acc=5671991650&hsa_cam=20917067474&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAl4a6BhBqEiwAqvrqutp89GE_mGTtIlkIkALr_Hu5dWhMliKlBbdypHiV9GL72CRA3XVhbBoC32UQAvD_BwE)**
   
-**Step 2 :**
+### Step 2 : After completing the setup file, please ensure that the "install_env.bat" file is automatically allowed to run
 
-**Step 3 :**
+![guide1](https://github.com/user-attachments/assets/4bc829d2-41a9-493a-933d-f4298ec2867b)
 
-**Step 4 :**
+- **This batch file is crucial for automatically setting up the environment for my script.**
+- **And always ensure that the process is never terminated while running. Doing so can cause cache conflicts...**
 
-**Step 5 :**
+![guide2](https://github.com/user-attachments/assets/64d626e6-e960-405f-9232-4f5d55929f64)
 
-**Step 6 :**
+- **And after waiting about 1-2 minutes for the environment setup to complete, you can exit this batch file as shown in the image.**
 
-**Step 7 :**
+![guide3](https://github.com/user-attachments/assets/bbd57623-53ec-4ca7-aeac-f5cf74af1753)
 
-**Step 8 :**
+### Step 3 : Are you experiencing the issue shown in the image where the "Dynamic Content Scraping" feature cannot run?
+
+![guide4](https://github.com/user-attachments/assets/c9144e69-4856-4e46-910e-e4bc09a81899)
+
+- **Below are the steps to fix this error:**
+
+#### 1. Press the ```Windows + R``` key combination, then type ```%appdata%```.
+
+![guide5](https://github.com/user-attachments/assets/f0f8de19-ed3e-45d7-b0f7-829a2413b6ef)
+
+---
+
+#### 2. Locate the folder to apply the fix.
+- In the URLScraper application, if the "Dynamic Content Scraping" feature doesn't work because the file shown in the image is missing, the solution is to locate the folder specified in the script and apply the necessary fix.
+
+![guide5_1](https://github.com/user-attachments/assets/d10c7037-8758-4ada-8a5d-03f9a29bc31e)
+
+- Next, navigate to the Chromium folder located in the path shown in the image, then press ```Ctrl + C``` to copy the entire folder.
+
+![guide5_1](https://github.com/user-attachments/assets/8f8b1062-1386-4d0c-b2b0-1e0db813649f)
+
+<div align="center">
+<h5>⚠Warning⚠ : Since each device requires its own specific Chromium folder, pay close attention to this part. What I'm demonstrating here is just an example, and there is a high chance it may not match your setup exactly, so it's important to understand this step thoroughly.</h5>
+</div>
+
+
+---
+
+#### 3. Next, go to the path shown in the image below. 
+- If you see a folder named ```.local-browsers```, paste the copied Chromium folder into it. If the folder doesn't exist, create a new ```.local-browsers``` folder and then paste the Chromium folder into it.
+
+![guide6_2_1](https://github.com/user-attachments/assets/e3da1e31-a425-4851-a755-91fa54801ee4)
+
+![guide6_2_2](https://github.com/user-attachments/assets/4c24e964-3f00-4887-b79a-421d1558fb45)
+
+<div align="center">
+<h5>⚠Warning⚠ : Always keep in mind that if the script reports an error in a specific Chromium folder path, you must apply the fix precisely to that location. Also, pay close attention to ensure you are modifying the correct "_MEII" folder within the "Temp" directory to avoid further confusion or mistakes.</h5>
+</div>
+
+<div align="center">
+<img src = "https://github.com/user-attachments/assets/81f35008-1aa8-4a65-a4b6-c0e401571a63" />
+</div>
+
+<div align="center">
+<h5>⚠Warning⚠ : Always keep in mind that if the script reports an error in a specific Chromium folder path, you must apply the fix precisely to that location. Also, pay close attention to ensure you are modifying the correct "_MEII" folder within the "Temp" directory to avoid further confusion or mistakes.</h5>
+</div>
+
+---
+
+### Step 4 : Open URLScraper and run the "Dynamic Content Scraping" feature again to check the results.
+
+![guide7](https://github.com/user-attachments/assets/da8a0ead-0205-4eca-b7e7-77abeef458fc)
+
+- Alright, everything is now complete. Enjoy your experience, and thank you! 😊😊😊
 
 # Any issue?
 ```
