@@ -22,3 +22,5 @@
 | `76e37adc48301fd53dce7f3dd79117b154c59624` | Hoang Gia | 2024-11-25 16:52:55 +0700 | Update TIMELINE.md |\n
 | `8409afbb7db9fc12c6d2b07b2bb22f23a66ff2fb` | Hoang Gia | 2024-11-25 16:54:43 +0700 | Update update-timeline.yml |
 
+| `d8e73fd01ff9940f5529c441eb917b21a7125c4f` | Hoang Gia | 2024-11-25 19:57:18 +0700 | Update README.md |
+
