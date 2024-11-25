@@ -58,7 +58,8 @@ jobs:
           fi
 
           # Thêm thông tin commit mới
-          git log --pretty=format:"| \`%H\` | %an | %ad | %s |" --date=iso >> $TIMELINE_FILE
+          git log --pretty=format:"| \`%H\` | %an | %ad | %s |\n" --date=iso >> $TIMELINE_FILE
+          echo "" >> $TIMELINE_FILE
 
       # Bước 7: In nội dung TIMELINE.md (debug)
       - name: Print TIMELINE.md
